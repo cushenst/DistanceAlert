@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Distance Tracker",
-    "slug": "5kmAlert",
+    "slug": "2kmAlert",
     "platforms": [
       "ios",
       "android",
